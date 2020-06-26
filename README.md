@@ -9,8 +9,11 @@ This is the Repository that consists of all the codes related to the Designing o
 ### Output Video -
 ![](output.gif)
 
+### Updated Output Video -
+![](Output_Updated.gif)
+
 ### App UI Demo -
 ![](App_GUI_Sample_Demo.gif)
 
 ### Working of the App Demo -
-![](DL_Integrated_App_Working.gif)
+![](Latest_UI_With_DL_Code.gif)
